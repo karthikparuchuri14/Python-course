@@ -25,8 +25,3 @@ else:
     print("invalid marks! please enter marks between 0 to 100")
 
 
-
-
-       
-    
-
